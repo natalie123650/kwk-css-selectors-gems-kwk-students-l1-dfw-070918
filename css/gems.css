@@ -1,6 +1,8 @@
 /* Select the image with a id of ruby */
 
-<img id="ruby" src="images/ruby-gem.png" alt="Ruby">  {
+<img id="ruby" 
+src="images/ruby-gem.png" 
+alt="Ruby">  {
   position: absolute;
   z-index: 1;
   top: 315px;
