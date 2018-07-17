@@ -4,7 +4,7 @@
 <img
 src="images/ruby-gem.png" 
 alt="Ruby">  {
-  position: relative;
+  position: absolute;
   z-index: 11;
   top: 315px;
   left: 175px;
